@@ -1,0 +1,33 @@
+{
+  "name": "natural-gutenberg",
+  "version": "1.0.0",
+  "author": {
+    "name": "Richard Littauer",
+    "email": "richard.littauer@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:RichardLitt/natural-gutenberg.git"
+  },
+  "devDependencies": {
+    "assert": "^1.1.1",
+    "jshint": "^2.5.2",
+    "precommit-hook": "^1.0.5"
+  },
+  "scripts": {
+    "test": "node tests/natural-gutenberg-tests.js",
+    "lint": "node node_modules/jshint/bin/jshint ."
+  },
+  "description": "Text corpora from Project Gutenburg used by NLTK.",
+  "bugs": {
+    "url": "https://github.com/RichardLitt/natural-gutenberg/issues"
+  },
+  "homepage": "https://github.com/RichardLitt/natural-gutenberg",
+  "maintainers": [
+    {
+      "name": "RichardLitt",
+      "email": "richard.littauer@gmail.com"
+    }
+  ],
+  "directories": {}
+}
