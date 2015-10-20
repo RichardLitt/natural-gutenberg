@@ -1,7 +1,13 @@
 {
   "name": "natural-gutenberg",
-  "version": "1.0.0",
-  "keywords": ["natural", "gutenberg", "corpus", "corpora", "NLTK"],
+  "version": "1.0.1",
+  "keywords": [
+    "natural",
+    "gutenberg",
+    "corpus",
+    "corpora",
+    "NLTK"
+  ],
   "author": {
     "name": "Richard Littauer",
     "email": "richard.littauer@gmail.com"
